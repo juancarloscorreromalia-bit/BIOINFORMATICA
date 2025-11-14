@@ -1,5 +1,0 @@
-Nombre	Apellidos	Edad	Mascotas
-Felipe	Cristo Rey	18	Mila
-Luis	Correa Matas	22	Byron
-Lucía	Palta Marin	20	Tino
-Maria	Sánchez Quijón	19	Chocolate
